@@ -8,7 +8,7 @@ Once the faces have been detected, we will use dlib's facial recognition model t
 
 You can find the pre-trained models used for face and facial landmark detections and others [here](https://github.com/davisking/dlib-models), or you can check the files above.
 
-In this example our <u>database consists of only 5 people</u> (1 photo each): **Bill Gates , Elon Musk , Me (Mohamed Amine) , Toby Maguire and Jeff Bezos**.
+In this example our <u>database consists of only 5 people</u> (1 photo each): **Bill Gates , Elon Musk , Me (Mohamed Amine), Toby Maguire and Jeff Bezos**.
 The output results are as follows :
 
 <p align="center">
